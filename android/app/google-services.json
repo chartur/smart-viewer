@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079017494406",
+    "project_id": "smart-view-8f497",
+    "storage_bucket": "smart-view-8f497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079017494406:android:a94b85f00af8684c28fe07",
+        "android_client_info": {
+          "package_name": "com.smartchildviewer.smart_child_viewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079017494406-rulrapo1a76msvr96omfardeqgn5fsbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ueZ4btsfPBpYFkt5KpEi0BkXACLz1OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079017494406-rulrapo1a76msvr96omfardeqgn5fsbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
